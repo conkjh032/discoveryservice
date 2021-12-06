@@ -3,7 +3,7 @@ server:
 
 spring:
   application:
-    name: discoveryservice
+    name: discoveryservice # 서버의 고유 ID
 
 eureka:
   client:
